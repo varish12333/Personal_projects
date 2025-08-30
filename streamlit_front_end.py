@@ -2,7 +2,7 @@ import streamlit as st
 from langgraph_backend import chatbot
 from langchain_core.messages import HumanMessage
 
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
 # Load environment variables from .env file
 # load_dotenv()
