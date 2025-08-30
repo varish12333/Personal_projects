@@ -5,7 +5,7 @@ from langchain_core.messages import HumanMessage
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
-load_dotenv()
+# load_dotenv()
 
 # with st.chat_message('user'):
 #     st.text('Hi')
